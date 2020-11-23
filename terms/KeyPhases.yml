@@ -1,0 +1,40 @@
+name: KeyPhases
+uri: https://
+kind: ControlledVocabulary
+jurisdiction: Ghana NaCCA
+country: Ghana
+terms:
+  - term: KG
+    label: Foundation
+    altLabel: Key Phase 1
+    children:
+    - term: KG1
+    - term: KG2
+  - term: LP
+    label: Lower primary
+    altLabel: Key Phase 2
+    children:
+    - term: B1
+    - term: B2
+    - term: B3
+  - term: UP
+    label: Upper primary
+    altLabel: Key Phase 3
+    children:
+    - term: B4
+    - term: B5
+    - term: B6
+  - term: JHS
+    label: Junior high school
+    altLabel: Key Phase 4
+    children:
+    - term: B7
+    - term: B8
+    - term: B9
+  - term: SHS
+    label: Senior high school 
+    altLabel: Key Phase 5
+    children:
+    - term: SHS1
+    - term: SHS2
+    - term: SHS3

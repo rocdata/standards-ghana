@@ -1,5 +1,6 @@
 termset: CoreCompetensies
-title: Core Competencies
+label: Core Competencies
+note: Also called "General Competences", transversal, or essential soft skills
 desciption: >
   General competences are combinations of attitudes, skills and knowledge that
   enhance learners’ ability to draw upon and build on what they know, how they
@@ -7,21 +8,51 @@ desciption: >
   Ghana’s curriculum promotes the development of the following competences:
 children:
 - term: CP
-  title: Critical thinking and Problem solving
-  description: Developing learners’ cognitive and reasoning abilities to enable them to analyse issues and situations, leading to the resolution of problems. This skill enables learners to draw on and demonstrate what they have learned and from their own experiences to analyse situations and choose the most appropriate out of a number of possible solutions. It requires that learners embrace the problem at hand, persevere and take responsibility for their own learning.
+  label: Critical thinking and Problem solving
+  description: >
+    Developing learners’ cognitive and reasoning abilities to enable them to analyse
+    issues and situations, leading to the resolution of problems. This skill enables
+    learners to draw on and demonstrate what they have learned and from their own
+    experiences to analyse situations and choose the most appropriate out of a 
+    number of possible solutions. It requires that learners embrace the problem
+    at hand, persevere and take responsibility for their own learning.
 - term: CI
-  title: Creativity and innovation
-  description: Promoting in learners, entrepreneurial skills through their ability to think of new ways of solving problems and developing technologies for addressing the problem at hand. It requires ingenuity of ideas, arts, technology and enterprise. Learners that possess this competency are also able to think independently and creatively.
+  label: Creativity and innovation
+  description: >
+    Promoting in learners, entrepreneurial skills through their ability to think
+    of new ways of solving problems and developing technologies for addressing the
+    problem at hand. It requires ingenuity of ideas, arts, technology and enterprise.
+    Learners that possess this competency are also able to think independently and creatively.
 - term: CC
-  title: Communication and collaboration
-  description: Promoting in learners the ability to make use of languages, symbols and texts to exchange information about themselves and their lived experiences. Learners actively participate in sharing their ideas and engage in dialogue with others by listening to and learning from others in ways that respect and value the multiple perspectives of all persons involved.
+  label: Communication and collaboration
+  description: >
+    Promoting in learners the ability to make use of languages, symbols and texts
+    to exchange information about themselves and their lived experiences.
+    Learners actively participate in sharing their ideas and engage in dialogue
+    with others by listening to and learning from others in ways that respect
+    and value the multiple perspectives of all persons involved.
 - term: CG
-  title: Cultural identity and global citizenship
-  description: Developing learners who put country and service as foremost through an understanding of what it means to be active citizens, by inculcating in them a strong sense of environmental, social, and economic awareness. Learners make use of the knowledge, skills, attitudes acquired to contribute effectively towards the socioeconomic development of the country and on the global stage. They build skills to critically analyse cultural trends, identify and contribute to the global world community.
+  label: Cultural identity and global citizenship
+  description: >
+    Developing learners who put country and service as foremost through an
+    understanding of what it means to be active citizens, by inculcating in them
+    a strong sense of environmental, social, and economic awareness.
+    Learners make use of the knowledge, skills, attitudes acquired to contribute
+    effectively towards the socioeconomic development of the country and on the
+    global stage. They build skills to critically analyse cultural trends, identify
+    and contribute to the global world community.
 - term: PL
-  title: Personal development and leadership
-  description: Improving self-awareness, self-knowledge, skills, health; building and renewing self-esteem; identifying and developing talents, fulfilling dreams and aspirations and developing other people or meeting other people’s needs. It involves recognising the importance of values such as honesty and empathy; seeking the well-being of others; distinguishing between right and wrong; fostering perseverance, resilience and self-confidence; exploring leadership, self-regulation and responsibility, and developing a love for lifelong learning.
+  label: Personal development and leadership
+  description: >
+    Improving self-awareness, self-knowledge, skills, health; building and renewing
+    self-esteem; identifying and developing talents, fulfilling dreams and aspirations
+    and developing other people or meeting other people’s needs. It involves
+    recognising the importance of values such as honesty and empathy;
+    seeking the well-being of others; distinguishing between right and wrong;
+    fostering perseverance, resilience and self-confidence; exploring leadership,
+    self-regulation and responsibility, and developing a love for lifelong learning.
 - term: DL
-  title: Digital literacy
-  description: Developing learners to discover, acquire skills in and communicate through ICT to support their learning and make use of digital media responsibly.
-note: Also called "General Competences", transversal, or essential soft skills
+  label: Digital literacy
+  description: > 
+    Developing learners to discover, acquire skills in and communicate through ICT
+    to support their learning and make use of digital media responsibly.

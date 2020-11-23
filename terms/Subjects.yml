@@ -1,0 +1,85 @@
+name: Subject
+uri: https://
+type: ControlledVocabulary
+kind: educationalSubjects
+jurisdiction: Ghana NaCCA
+term:
+  - term: LL
+    label: Language and Literacy
+    description: Compromising Oral Language, Reading and Writing
+    keyPhases: [KG]
+  - term: N
+    label: Numeracy/Mathematics
+    keyPhases: [KG]
+  - term: CA
+    label: Creative Arts (CA)
+    keyPhases: [KG]
+  - term: WP
+    label: Our World and our People
+    keyPhases: [KG]
+
+  - term: English
+    label: English Language
+    altLabel: Literacy (English Language)
+    keyPhases: [LP, UP, JSH, SHS]
+  - term: Mathematics
+    label: Mathematics
+    keyPhases: [LP, UP, JSH, SHS]
+  - term: GhanaianLanguage
+    label: Ghanaian Language
+    keyPhases: [LP, UP, JSH]
+  - term: CreativeArts
+    label: Creative Arts
+    keyPhases: [LP, UP]
+  - term: GeneralArts
+    label: General Arts
+    keyPhases: [SHS]
+  - term: ICT
+    label: Information and Communication Technology
+    keyPhases: [LP, UP, JHS, SHS]
+  - term: RME
+    label: Religious and Moral Education
+    keyPhases: [LP, UP, JHS]
+  - term: PhysicalEducation
+    label: Physical Education
+    keyPhases: [LP, UP, JHS, SHS]
+  - term: IntegratedScience
+    label: Integrated Science
+    keyPhases: [UP, JHS, SHS]
+  - term: NaturalSciences
+    label: Natural Sciences
+    keyPhases: [LP]
+
+  - term: CitizenshipEducation
+    label: Citizenship Education
+    keyPhases: [UP]
+
+  - term: SocialStudies
+    label: Social Studies
+    keyPhases: [JHS, SHS]
+
+  - term: French
+    label: French
+    keyPhases: [JHS]
+  - term: MusicAndDance
+    label: Music and Dance
+    keyPhases: [JHS]
+  - term: DesignAndTechnology
+    label: Basic Design and Technology
+    keyPhases: [JHS]
+
+  - term: Science
+    label: Science
+    keyPhases: [SHS]
+  - term: BusinessEducation
+    label: Business Education
+    keyPhases: [SHS]
+  - term: AgriculturalScience
+    label: Agricultural Science
+    keyPhases: [SHS]
+  - term: HomeEconomics
+    label: Home Economics
+    keyPhases: [SHS]
+  - term: TVET
+    label: Technical and Vocational Education
+    keyPhases: [SHS]
