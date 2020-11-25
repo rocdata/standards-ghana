@@ -1,0 +1,25 @@
+type: ControlledVocabulary
+jurisdiction: Ghana
+name: CurriculumElements
+uri: https://qv.link/terms/Ghana/CurriculumElements
+country: gn
+title: Ghana Curriculum Elements
+description: >
+  Controlled vocabulary for describing the different elements within the
+  curriculum standards for the educaitonal system in Ghana.
+source: https://nacca.gov.gh/wp-content/uploads/2019/04/MATHS-LOWER-PRIMARY-B1-B3.pdf#page=18
+language: en
+terms:
+  - term: grade
+    label: Grade level
+    altLabel: Class
+    range: https://qv.link/terms/Ghana/GradeLevels
+  - term: strand
+    label: Strand
+  - term: sub-strand
+    label: Sub-strand
+  - term: standard
+    label: Standard
+  - term: indicator
+    label: Learning Indicator
+

@@ -1,12 +1,17 @@
-termset: CoreCompetensies
-label: Core Competencies
-note: Also called "General Competences", transversal, or essential soft skills
+type: ControlledVocabulary
+jurisdiction: Ghana
+name: CoreCompetensies
+uri: https://qv.link/terms/Ghana/CoreCompetensies
+country: gn
+language: en
+title: Core Competencies
 desciption: >
   General competences are combinations of attitudes, skills and knowledge that
   enhance learners’ ability to draw upon and build on what they know, how they
   think and what they can do in school, for lifelong learning, living and working.
   Ghana’s curriculum promotes the development of the following competences:
-children:
+source: https://nacca.gov.gh/wp-content/uploads/2019/04/MATHS-LOWER-PRIMARY-B1-B3.pdf#page=18
+terms:
 - term: CP
   label: Critical thinking and Problem solving
   description: >

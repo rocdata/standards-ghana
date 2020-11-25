@@ -1,21 +1,37 @@
-name: GradeLevels 
-uri: https://
 type: ControlledVocabulary
-kind: gradeLevel
-jurisdiction: Ghana NaCCA
-country: Ghana
+jurisdiction: Ghana
+name: GradeLevels 
+uri: https://qv.link/terms/Ghana/GradeLevels
+country: gn
+title: Ghana Grade Levels
+description: Controlled vocabulary for describing the grade levels in the Ghana educaitonal system.
+source: https://nacca.gov.gh/wp-content/uploads/2019/04/National-Pre-tertiary-Education-Curriculum-Framework-final.pdf#page=11
 terms:
   - term: KG1
+    label: Kindergarten 1
   - term: KG2
+    label: Kindergarten 1
   - term: B1
+    label: Basic 1
   - term: B2
+    label: Basic 2
   - term: B3
+    label: Basic 3
   - term: B4
+    label: Basic 4
   - term: B5
+    label: Basic 5
   - term: B6
+    label: Basic 6
   - term: B7
+    label: Basic 7
   - term: B8
+    label: Basic 8
   - term: B9
+    label: Basic 9
   - term: SHS1
+    label: Senior High School 1
   - term: SHS2
+    label: Senior High School 2
   - term: SHS3
+    label: Senior High School 3

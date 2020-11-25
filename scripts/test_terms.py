@@ -12,6 +12,7 @@ os.chdir(os.path.join(scripts_dir, '..', 'terms'))  # go to the terms/ directory
 
 for filename in os.listdir('.'):
     if filename.endswith('.yml'):
+        print('Checking ' + filename + ' ...')
         termsetdata = yaml.safe_load(open(filename))
         assert termsetdata, 'empty termset fixture file'
         assert isinstance(termsetdata, dict)
