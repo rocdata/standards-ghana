@@ -1,8 +1,10 @@
-name: Subject
-uri: https://
 type: ControlledVocabulary
-kind: educationalSubjects
-jurisdiction: Ghana NaCCA
+jurisdiction: Ghana
+name: Subjects
+uri: https://qv.link/Ghana/Subjects
+country: GH
+language: en
+description: Academic subjects used in the Ghana educational standards.
 term:
   - term: LL
     label: Language and Literacy

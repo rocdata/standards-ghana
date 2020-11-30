@@ -2,7 +2,7 @@ type: ControlledVocabulary
 jurisdiction: Ghana
 name: CurriculumElements
 uri: https://qv.link/terms/Ghana/CurriculumElements
-country: gn
+country: GH
 title: Ghana Curriculum Elements
 description: >
   Controlled vocabulary for describing the different elements within the

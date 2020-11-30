@@ -2,7 +2,7 @@ type: ControlledVocabulary
 jurisdiction: Ghana
 name: KeyPhases
 uri: https://qv.link/terms/Ghana/KeyPhases
-country: gn
+country: GH
 title: Key Phases
 description: Controlled vocabulary for describing the key phases within the in the Ghana educaitonal system.
 source: https://nacca.gov.gh/wp-content/uploads/2019/04/MATHS-LOWER-PRIMARY-B1-B3.pdf#page=18
