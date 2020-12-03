@@ -4,8 +4,9 @@ name: Subjects
 uri: https://qv.link/Ghana/Subjects
 country: GH
 language: en
+label: Ghana Academic Subjects
 description: Academic subjects used in the Ghana educational standards.
-term:
+terms:
   - term: LL
     label: Language and Literacy
     description: Compromising Oral Language, Reading and Writing
