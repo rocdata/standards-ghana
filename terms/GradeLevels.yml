@@ -3,7 +3,7 @@ jurisdiction: Ghana
 name: GradeLevels 
 uri: https://qv.link/terms/Ghana/GradeLevels
 country: GH
-title: Ghana Grade Levels
+label: Ghana Grade Levels
 description: Controlled vocabulary for describing the grade levels in the Ghana educaitonal system.
 source: https://nacca.gov.gh/wp-content/uploads/2019/04/National-Pre-tertiary-Education-Curriculum-Framework-final.pdf#page=11
 terms:
