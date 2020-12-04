@@ -9,10 +9,10 @@ description: Academic subjects used in the Ghana educational standards.
 terms:
   - term: LL
     label: Language and Literacy
-    description: Compromising Oral Language, Reading and Writing
+    definition: Compromising Oral Language, Reading and Writing
     keyPhases: [KG]
   - term: N
-    label: Numeracy/Mathematics
+    label: Numeracy and Mathematics
     keyPhases: [KG]
   - term: CA
     label: Creative Arts (CA)
@@ -23,7 +23,7 @@ terms:
 
   - term: English
     label: English Language
-    altLabel: Literacy (English Language)
+    alt_label: Literacy (English Language)
     keyPhases: [LP, UP, JSH, SHS]
   - term: Mathematics
     label: Mathematics

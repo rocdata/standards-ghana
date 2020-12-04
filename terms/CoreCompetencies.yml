@@ -5,7 +5,7 @@ uri: https://qv.link/terms/Ghana/CoreCompetensies
 country: GH
 language: en
 label: Core Competencies
-desciption: >
+description: >
   General competences are combinations of attitudes, skills and knowledge that
   enhance learners’ ability to draw upon and build on what they know, how they
   think and what they can do in school, for lifelong learning, living and working.
@@ -14,7 +14,7 @@ source: https://nacca.gov.gh/wp-content/uploads/2019/04/MATHS-LOWER-PRIMARY-B1-B
 terms:
 - term: CP
   label: Critical thinking and Problem solving
-  description: >
+  definition: >
     Developing learners’ cognitive and reasoning abilities to enable them to analyse
     issues and situations, leading to the resolution of problems. This skill enables
     learners to draw on and demonstrate what they have learned and from their own
@@ -23,14 +23,14 @@ terms:
     at hand, persevere and take responsibility for their own learning.
 - term: CI
   label: Creativity and innovation
-  description: >
+  definition: >
     Promoting in learners, entrepreneurial skills through their ability to think
     of new ways of solving problems and developing technologies for addressing the
     problem at hand. It requires ingenuity of ideas, arts, technology and enterprise.
     Learners that possess this competency are also able to think independently and creatively.
 - term: CC
   label: Communication and collaboration
-  description: >
+  definition: >
     Promoting in learners the ability to make use of languages, symbols and texts
     to exchange information about themselves and their lived experiences.
     Learners actively participate in sharing their ideas and engage in dialogue
@@ -38,7 +38,7 @@ terms:
     and value the multiple perspectives of all persons involved.
 - term: CG
   label: Cultural identity and global citizenship
-  description: >
+  definition: >
     Developing learners who put country and service as foremost through an
     understanding of what it means to be active citizens, by inculcating in them
     a strong sense of environmental, social, and economic awareness.
@@ -48,7 +48,7 @@ terms:
     and contribute to the global world community.
 - term: PL
   label: Personal development and leadership
-  description: >
+  definition: >
     Improving self-awareness, self-knowledge, skills, health; building and renewing
     self-esteem; identifying and developing talents, fulfilling dreams and aspirations
     and developing other people or meeting other people’s needs. It involves
@@ -58,6 +58,6 @@ terms:
     self-regulation and responsibility, and developing a love for lifelong learning.
 - term: DL
   label: Digital literacy
-  description: > 
+  definition: > 
     Developing learners to discover, acquire skills in and communicate through ICT
     to support their learning and make use of digital media responsibly.

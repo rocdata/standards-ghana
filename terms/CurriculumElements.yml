@@ -12,7 +12,7 @@ language: en
 terms:
   - term: grade
     label: Grade level
-    altLabel: Class
+    alt_label: Class
     range: https://qv.link/terms/Ghana/GradeLevels
   - term: strand
     label: Strand
