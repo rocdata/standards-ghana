@@ -1,4 +1,5 @@
 type: ControlledVocabulary
+kind: curriculum_elements
 jurisdiction: Ghana
 name: CurriculumElements
 uri: https://qv.link/terms/Ghana/CurriculumElements

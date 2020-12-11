@@ -1,4 +1,5 @@
 type: ControlledVocabulary
+kind: subjects
 jurisdiction: Ghana
 name: Subjects
 uri: https://qv.link/Ghana/Subjects

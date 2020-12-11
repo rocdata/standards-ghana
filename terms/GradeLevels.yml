@@ -1,4 +1,5 @@
 type: ControlledVocabulary
+kind: education_levels
 jurisdiction: Ghana
 name: GradeLevels 
 uri: https://qv.link/terms/Ghana/GradeLevels
