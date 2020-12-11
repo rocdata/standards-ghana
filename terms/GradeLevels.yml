@@ -2,7 +2,7 @@ type: ControlledVocabulary
 kind: education_levels
 jurisdiction: Ghana
 name: GradeLevels 
-uri: https://qv.link/terms/Ghana/GradeLevels
+uri: https://rocdata.global/terms/Ghana/GradeLevels
 country: GH
 label: Ghana Grade Levels
 description: Controlled vocabulary for describing the grade levels in the Ghana educaitonal system.

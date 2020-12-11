@@ -2,7 +2,7 @@ type: ControlledVocabulary
 kind: subjects
 jurisdiction: Ghana
 name: Subjects
-uri: https://qv.link/Ghana/Subjects
+uri: https://rocdata.global/terms/Ghana/Subjects
 country: GH
 language: en
 label: Ghana Academic Subjects

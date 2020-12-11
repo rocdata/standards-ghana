@@ -1,7 +1,7 @@
 type: ControlledVocabulary
 jurisdiction: Ghana
 name: KeyPhases
-uri: https://qv.link/terms/Ghana/KeyPhases
+uri: https://rocdata.global/terms/Ghana/KeyPhases
 country: GH
 label: Key Phases
 description: Controlled vocabulary for describing the key phases within the in the Ghana educaitonal system.
