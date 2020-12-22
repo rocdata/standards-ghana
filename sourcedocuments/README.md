@@ -42,4 +42,4 @@ The structure of each statement is described below:
 
 <img src="./figures/structure.jpg" style="width:500px">
 
-See [this example](https://groccad.github.io/research/literature_review.html#example-ghana).
+See [this example](https://rocdata.github.io/research/literature_review.html#example-ghana).
