@@ -5,7 +5,7 @@ name: GradeLevels
 uri: https://rocdata.global/terms/Ghana/GradeLevels
 country: GH
 label: Ghana Grade Levels
-description: Controlled vocabulary for describing the grade levels in the Ghana educaitonal system.
+description: Controlled vocabulary for describing the grade levels in the Ghana educational system.
 source: https://nacca.gov.gh/wp-content/uploads/2019/04/National-Pre-tertiary-Education-Curriculum-Framework-final.pdf#page=11
 terms:
   - term: KG1

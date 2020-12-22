@@ -1,7 +1,7 @@
 type: ControlledVocabulary
 jurisdiction: Ghana
-name: CoreCompetensies
-uri: https://rocdata.global/terms/Ghana/CoreCompetensies
+name: CoreCompetencies
+uri: https://rocdata.global/terms/Ghana/CoreCompetencies
 country: GH
 language: en
 label: Core Competencies
