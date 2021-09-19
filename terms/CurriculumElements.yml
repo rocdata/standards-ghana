@@ -2,7 +2,7 @@ type: ControlledVocabulary
 kind: curriculum_elements
 jurisdiction: Ghana
 name: CurriculumElements
-uri: https://rocdata.global/terms/Ghana/CurriculumElements
+uri: https://rocdata.global/Ghana/terms/CurriculumElements
 country: GH
 label: Ghana Curriculum Elements
 description: >
@@ -14,7 +14,7 @@ terms:
   - term: grade
     label: Grade level
     alt_label: Class
-    range: https://rocdata.global/terms/Ghana/GradeLevels
+    range: https://rocdata.global/Ghana/terms/GradeLevels
   - term: strand
     label: Strand
   - term: sub-strand
