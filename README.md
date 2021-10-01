@@ -19,8 +19,12 @@ To learn more about Ghana curriculum standards in general, see the document
 
 Contents
 --------
-- [`sourcedocuments/`](./sourcedocuments): source documents (PDFs)
+- [`sourcedocuments/`](./sourcedocuments): source documents (PDFs).
+  See [README](./sourcedocuments/README.md) for more info.
 - [`sourcedata/`](./sourcedata): machine-readable source documents (spreadsheets)
+  - The directory [`sourcedata/sample/`](./sourcedata/sample) contains a sample
+    of the Ghana Math curriculum manually represented as a spreadsheet.
+    You can also view this sample online [here](https://docs.google.com/spreadsheets/d/1q63to3emq6KypRncchkb6aYPgu--_Wq848BGhypXiqk/edit#gid=0).
 - [`terms/`](./terms): controlled vocabularies used in the digitized standards
   - [`CurriculumElements.yml`](./terms/CurriculumElements.yml)
   - [`Subjects.yml`](./terms/Subjects.yml)
