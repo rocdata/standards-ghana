@@ -47,5 +47,7 @@ Digitization notes
 
 License
 -------
-All documents and data published are 
-© National Council for Curriculum and Assessment (NaCCA), Ministry of Education Ghana.
+All documents and are under copyright © National Council for Curriculum and Assessment (NaCCA), Ministry of Education Ghana.
+The digital representations of terms and standards data in this repository are
+for illustrative purposes part of the [ROC data project](https://rocdata.global/)
+and should not be considered endorsed or approved by the NaCCA in any way.
