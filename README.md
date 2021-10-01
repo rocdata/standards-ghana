@@ -7,11 +7,10 @@ Jurisdiction info
 Curriculum standards in Ghana are published by the
 [National Council for Curriculum and Assessment (NaCCA)](https://nacca.gov.gh).
 
-The new curriculum standards can be obtained in PDF format from:
+The curriculum standards documents can be obtained in PDF format from:
 [https://nacca.gov.gh/?page_id=9230](https://nacca.gov.gh/?page_id=9230)
 A local copy of these documents is available in the [sourcedocuments/](./sourcedocuments/) folder.
 The old curriculum subjects can be viewed [here](https://nacca.gov.gh/?page_id=8627).
-
 To learn more about Ghana curriculum standards in general, see the document
 [National Pre-tertiary Education Curriculum Framework](https://nacca.gov.gh/wp-content/uploads/2019/04/National-Pre-tertiary-Education-Curriculum-Framework-final.pdf)
 ([local copy](./sourcedocuments/National-Pre-tertiary-Education-Curriculum-Framework-final.pdf)).
